@@ -227,3 +227,4 @@ function terminarCita() {
     window.location.href = "/citas";
   }
 }
+

@@ -262,3 +262,4 @@ function cerrarModal() {
     setTimeout(() => modal.remove(), 300);
   }
 }
+

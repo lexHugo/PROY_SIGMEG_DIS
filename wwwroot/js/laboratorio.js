@@ -272,3 +272,4 @@ function showError(message) {
   // Implementar según tu sistema de notificaciones
   alert(message);
 }
+
