@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+// Modificar
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using SGMG.Models;
 using PROY_20252SGMG.Models;
@@ -31,3 +32,4 @@ public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
   public DbSet<Derivacion> Derivaciones { get; set; }
   public DbSet<OrdenLaboratorio> OrdenesLaboratorio { get; set; }
 }
+

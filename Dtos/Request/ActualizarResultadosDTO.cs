@@ -1,3 +1,4 @@
+// Modificar
 namespace SGMG.Dtos.Request
 {
     public class ActualizarResultadosDTO

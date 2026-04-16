@@ -1,3 +1,4 @@
+// Modificar
 using System;
 using System.Collections.Generic;
 
@@ -43,3 +44,4 @@ namespace SGMG.Dtos.Response
         public string Estado { get; set; } = string.Empty;
     }
 }
+

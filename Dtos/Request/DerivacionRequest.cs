@@ -1,3 +1,4 @@
+// Modificar
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,3 +15,4 @@ namespace PROY_20252SGMG.Dtos.Request
     public int? IdMedicoDestino { get; set; } // Opcional
   }
 }
+

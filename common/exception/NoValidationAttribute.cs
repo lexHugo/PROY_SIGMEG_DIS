@@ -1,3 +1,4 @@
+// Modificar
 using System;
 
 namespace SGMG.common.exception
@@ -7,3 +8,4 @@ namespace SGMG.common.exception
   {
   }
 }
+

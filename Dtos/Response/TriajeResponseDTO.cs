@@ -1,3 +1,4 @@
+// Modificar
 namespace SGMG.Dtos.Response
 {
     public class TriajeResponseDTO
@@ -41,3 +42,4 @@ namespace SGMG.Dtos.Response
         public int Edad { get; set; }
     }
 }
+

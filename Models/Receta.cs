@@ -1,3 +1,4 @@
+// Modificar
 
 using System;
 using System.Collections.Generic;
@@ -39,3 +40,4 @@ namespace SGMG.Models
     public ICollection<DetalleReceta> Detalles { get; set; } = new List<DetalleReceta>();
   }
 }
+

@@ -1,3 +1,4 @@
+// Modificar
 namespace SGMG.Dtos.Response
 {
     public class DiagnosticoResponseDTO

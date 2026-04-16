@@ -1,3 +1,4 @@
+// Modificar
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using SGMG.Data;
@@ -140,3 +141,4 @@ app.MapControllerRoute(
 app.MapRazorPages();
 
 app.Run();
+

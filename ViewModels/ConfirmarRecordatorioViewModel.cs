@@ -1,3 +1,4 @@
+// Modificar
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -30,3 +31,4 @@ namespace PROY_20252SGMG.ViewsModels
     public string TelefonoHospital { get; set; } = "(01) 362-0220";
   }
 }
+

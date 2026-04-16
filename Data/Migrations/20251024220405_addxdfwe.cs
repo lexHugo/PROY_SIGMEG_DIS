@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore.Migrations;
+// Modificar
+using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
@@ -20,3 +21,4 @@ namespace SGMG.Data.Migrations
         }
     }
 }
+
